@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUniversalLib", "WSUniversalLib.csproj", "{67D084B2-70C7-4B83-834C-B40A457AFA4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUniversalLibTest", "..\WSUniversalLibTest\WSUniversalLibTest.csproj", "{98CC12D4-F0AE-4E73-9A9C-6BC04B5A9565}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUniversalLibTest", "WSUniversalLibTest\WSUniversalLibTest.csproj", "{98CC12D4-F0AE-4E73-9A9C-6BC04B5A9565}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
